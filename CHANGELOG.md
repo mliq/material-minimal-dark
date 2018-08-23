@@ -3,5 +3,9 @@ All notable changes to the "material-minimal-dark" extension will be documented 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.3]
+- update .vscodeignore to include CHANGELOG.md, LICENSE, package.json
+## [0.0.2]
+- update .vscodeignore to include README.md
+## [0.0.1]
 - Initial release
