@@ -1,0 +1,8 @@
+{
+    "eslint.enable": false,
+    "cSpell.words": [
+        "nocheck",
+        "ts"
+    ],
+    "javascript.validate.enable": false
+}
