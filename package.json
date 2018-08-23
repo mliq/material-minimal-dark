@@ -1,0 +1,22 @@
+{
+    "name": "material-minimal-dark",
+    "displayName": "Material Minimal Dark",
+    "description": "Material-inspired, Minimal-distraction, beautiful and calming blue and purple focused color palette",
+    "version": "0.0.1",
+    "publisher": "liquori",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Minimal Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material Minimal Dark-color-theme.json"
+            }
+        ]
+    }
+}
