@@ -5,3 +5,5 @@
 # Whitelist what you need
 !.vscodeignore
 !themes/*
+!images/icon.png
+!README.md

@@ -5,7 +5,7 @@
     "version": "0.0.1",
     "publisher": "liquori",
     "engines": {
-        "vscode": "^1.26.0"
+        "vscode": "^1.0.0"
     },
     "categories": [
         "Themes"
@@ -18,5 +18,20 @@
                 "path": "./themes/Material Minimal Dark-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": "https://github.com/mliq/material-minimal-dark",
+    "license": "MIT",
+    "author": {
+        "name": "Michael Liquori",
+        "email": "liquori@gmail.com",
+        "url": "https://github.com/mliq"
+    },
+    "homepage": "https://github.com/mliq",
+    "icon": "images/icon.png",
+    "keywords": [
+        "vscode",
+        "material",
+        "dark",
+        "theme"
+    ]
 }
