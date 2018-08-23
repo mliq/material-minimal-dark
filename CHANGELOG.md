@@ -5,7 +5,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.0.3]
 - update .vscodeignore to include CHANGELOG.md, LICENSE, package.json
+
 ## [0.0.2]
 - update .vscodeignore to include README.md
+
 ## [0.0.1]
 - Initial release
