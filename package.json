@@ -1,37 +1,39 @@
 {
-    "name": "material-minimal-dark",
-    "displayName": "Material Minimal Dark",
-    "description": "Material-inspired, Minimal-distraction, beautiful and calming blue and purple focused color palette",
-    "version": "0.0.3",
-    "publisher": "liquori",
-    "engines": {
-        "vscode": "^1.0.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Material Minimal Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Material Minimal Dark-color-theme.json"
-            }
-        ]
-    },
-    "repository": "https://github.com/mliq/material-minimal-dark",
-    "license": "MIT",
-    "author": {
-        "name": "Michael Liquori",
-        "email": "liquori@gmail.com",
-        "url": "https://github.com/mliq"
-    },
-    "homepage": "https://github.com/mliq",
-    "icon": "images/icon.png",
-    "keywords": [
-        "vscode",
-        "material",
-        "dark",
-        "theme"
+  "name": "material-minimal-dark",
+  "displayName": "Material Minimal Dark",
+  "description": "Material-inspired, Minimal-distraction, beautiful and calming blue and purple focused color palette",
+  "version": "0.0.4",
+  "publisher": "liquori",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material Minimal Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Material Minimal Dark-color-theme.json"
+      }
     ]
+  },
+  "repository": "https://github.com/mliq/material-minimal-dark",
+  "license": "MIT",
+  "author": {
+    "name": "Michael Liquori",
+    "email": "liquori@gmail.com",
+    "url": "https://github.com/mliq"
+  },
+  "homepage": "https://github.com/mliq/material-minimal-dark",
+  "icon": "images/icon.png",
+  "keywords": [
+    "vscode",
+    "material",
+    "dark",
+    "theme",
+    "minimal",
+    "night"
+  ]
 }
