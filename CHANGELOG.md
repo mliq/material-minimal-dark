@@ -4,6 +4,10 @@ All notable changes to the "material-minimal-dark" extension will be documented 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.5]
+
+- update yaml theme to provide similar experience to JS and Markdown, xmas colors with dark blues/purples/pinks.
+
 ## [0.0.4]
 
 - update markdown theme to provide similar experience to JavaScript, replacing yellow and bright green colors.
