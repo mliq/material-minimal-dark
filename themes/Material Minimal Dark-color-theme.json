@@ -46,7 +46,7 @@
     "terminal.background": "#262621",
     "terminal.foreground": "#bdcdcd",
     "titleBar.activeBackground": "#0c0c0c",
-    "titleBar.inactiveBackground": "#2b2b2b"
+    "titleBar.inactiveBackground": "#2b2b2b",
     //"activityBar.background": "#333333",
     //"activityBar.dropBackground": "#ffffff1f",
     //"activityBar.foreground": "#ffffff",
@@ -235,7 +235,7 @@
     //"textCodeBlock.background": "#0a0a0a66",
     //"textLink.activeForeground": "#3794ff",
     //"textLink.foreground": "#3794ff",
-    //"textPreformat.foreground": "#d7ba7d",
+    "textPreformat.foreground": "#71bef9",
     //"textSeparator.foreground": "#ffffff2e",
     //"titleBar.activeForeground": "#cccccc",
     //"titleBar.inactiveForeground": "#cccccc99",
@@ -272,7 +272,10 @@
     },
     {
       "name": "User-defined constant",
-      "scope": ["constant.character", "constant.other"],
+      "scope": [
+        "constant.character",
+        "constant.other"
+      ],
       "settings": {
         "foreground": "#F77669"
       }
@@ -369,7 +372,10 @@
     },
     {
       "name": "Library class/type",
-      "scope": ["support.type", "support.class"],
+      "scope": [
+        "support.type",
+        "support.class"
+      ],
       "settings": {
         "foreground": "#FFCB6B"
       }
@@ -402,14 +408,27 @@
       "name": "Markup Quote",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#F77669"
+        "foreground": "#b5c2df"
       }
     },
     {
       "name": "Markup Styling",
-      "scope": ["markup.bold", "markup.italic"],
+      "scope": [
+        "markup.bold"
+      ],
       "settings": {
-        "foreground": "#F77669"
+        "foreground": "#c03d96",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markup Styling",
+      "scope": [
+        "markup.italic"
+      ],
+      "settings": {
+        "foreground": "#ba7db0",
+        "fontStyle": "italic"
       }
     },
     {
@@ -425,7 +444,7 @@
       "scope": "markup.heading.setext",
       "settings": {
         "fontStyle": "",
-        "foreground": "#ddbb88"
+        "foreground": "#6796e6"
       }
     },
     {
@@ -441,7 +460,10 @@
     },
     {
       "name": "Property name",
-      "scope": ["meta.property-name", "support.type.property-name"],
+      "scope": [
+        "meta.property-name",
+        "support.type.property-name"
+      ],
       "settings": {
         "foreground": "#80CBC4"
       }

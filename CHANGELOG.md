@@ -4,6 +4,10 @@ All notable changes to the "material-minimal-dark" extension will be documented 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.6]
+
+- More Markdown improvements (bold, italics, code blocks not orange anymore).
+
 ## [0.0.5]
 
 - update yaml theme to provide similar experience to JS and Markdown, xmas colors with dark blues/purples/pinks.
