@@ -4,6 +4,10 @@ All notable changes to the "material-minimal-dark" extension will be documented 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.8]
+
+- Update demo.png to accurately reflect current state.
+
 ## [0.0.7]
 
 - Fix illegibility of currently selected find result.
